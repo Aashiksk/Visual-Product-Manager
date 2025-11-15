@@ -1,0 +1,51 @@
+filename,name,category,image_url
+shoe01.jpg,Running Shoes,Footwear,https://images.unsplash.com/photo-1542293787938-c9e299b88088
+shoe02.jpg,Sports Sneakers,Footwear,https://images.unsplash.com/photo-1528701800489-20be3c1167ff
+shoe03.jpg,Canvas Sneakers,Footwear,https://images.unsplash.com/photo-1519741491041-43c76573d8fa
+shoe04.jpg,Leather Boots,Footwear,https://images.unsplash.com/photo-1588361861040-fd89ef0d839c
+shoe05.jpg,Trail Shoes,Footwear,https://images.unsplash.com/photo-1596461404969-9ae70f2830c1
+bag01.jpg,Canvas Shoulder Bag,Accessories,https://images.unsplash.com/photo-1590874103328-48e7b2472815
+bag02.jpg,Leather Handbag,Accessories,https://images.unsplash.com/photo-1584916205258-fd3d3f3fbe8c
+bag03.jpg,Travel Backpack,Accessories,https://images.unsplash.com/photo-1522199710521-72d69614c702
+bag04.jpg,Messenger Bag,Accessories,https://images.unsplash.com/photo-1548036328-c9fa89d128fa
+bag05.jpg,Sling Bag,Accessories,https://images.unsplash.com/photo-1519681396912-6eecf1e8edbf
+shirt01.jpg,Cotton T-Shirt,Clothing,https://images.unsplash.com/photo-1521572163474-6864f9cf17ab
+shirt02.jpg,Formal Shirt,Clothing,https://images.unsplash.com/photo-1492144534655-ae79c964c9d7
+shirt03.jpg,Printed Tee,Clothing,https://images.unsplash.com/photo-1551808525-51c5cfe1df92
+shirt04.jpg,Denim Shirt,Clothing,https://images.unsplash.com/photo-1602810317536-dc127daac3a9
+shirt05.jpg,Checked Shirt,Clothing,https://images.unsplash.com/photo-1512436991641-6745cdb1723f
+pant01.jpg,Denim Jeans,Clothing,https://images.unsplash.com/photo-1582738411887-1f5fe8db021e
+pant02.jpg,Casual Chinos,Clothing,https://images.unsplash.com/photo-1600185365483-d2c1b6f6b6eb
+pant03.jpg,Slim Fit Trousers,Clothing,https://images.unsplash.com/photo-1588352487690-581b57be87a3
+pant04.jpg,Cargo Pants,Clothing,https://images.unsplash.com/photo-1603572730605-f4f2f51b6a73
+pant05.jpg,Sweatpants,Clothing,https://images.unsplash.com/photo-1523381210434-271e8be1f52b
+watch01.jpg,Analog Watch,Accessories,https://images.unsplash.com/photo-1524594154908-edd0b907a4c9
+watch02.jpg,Digital Watch,Accessories,https://images.unsplash.com/photo-1588776814546-1e0e94c5a57a
+watch03.jpg,Smartwatch,Accessories,https://images.unsplash.com/photo-1519003722820-f77bba55e8ed
+watch04.jpg,Metal Strap Watch,Accessories,https://images.unsplash.com/photo-1507679799987-c73779587ccf
+watch05.jpg,Fitness Tracker,Accessories,https://images.unsplash.com/photo-1578848334230-51b7f9a0372e
+mug01.jpg,Ceramic Coffee Mug,Home,https://images.unsplash.com/photo-1494314671902-399b18174975
+mug02.jpg,Printed Mug,Home,https://images.unsplash.com/photo-1509474520651-6c8a19f90bde
+mug03.jpg,Metallic Mug,Home,https://images.unsplash.com/photo-1571781926291-c477eb1c14a0
+mug04.jpg,Minimalist Mug,Home,https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd
+mug05.jpg,Colorful Cup,Home,https://images.unsplash.com/photo-1588860945940-f560acbdc3fb
+lamp01.jpg,Desk Lamp,Home,https://images.unsplash.com/photo-1581262313471-456ff71dfe0f
+lamp02.jpg,Bedside Lamp,Home,https://images.unsplash.com/photo-1505693416388-ac5ce068fe85
+lamp03.jpg,LED Table Lamp,Home,https://images.unsplash.com/photo-1582223036860-dc1dcdba6898
+lamp04.jpg,Study Lamp,Home,https://images.unsplash.com/photo-1616627981780-443c1dc1a506
+lamp05.jpg,Wooden Lamp,Home,https://images.unsplash.com/photo-1517682253810-edeac52a7c9e
+bottle01.jpg,Steel Water Bottle,Home,https://images.unsplash.com/photo-1598300055140-0dbbe0c029ef
+bottle02.jpg,Sports Water Bottle,Home,https://images.unsplash.com/photo-1517701604599-9a0d0f55df70
+bottle03.jpg,Insulated Bottle,Home,https://images.unsplash.com/photo-1581062726000-aa3c99b13aa2
+bottle04.jpg,Plastic Bottle,Home,https://images.unsplash.com/photo-1591282728945-047c1512f0dd
+bottle05.jpg,Travel Flask,Home,https://images.unsplash.com/photo-1572982495750-dc3a8a68f9f6
+headphone01.jpg,Wireless Headphones,Electronics,https://images.unsplash.com/photo-1512058564366-18510be2db19
+headphone02.jpg,Bluetooth Earphones,Electronics,https://images.unsplash.com/photo-1497032628192-86f99bcd76bc
+headphone03.jpg,Over-Ear Headphones,Electronics,https://images.unsplash.com/photo-1585386959984-a4155224a1a9
+headphone04.jpg,Gaming Headset,Electronics,https://images.unsplash.com/photo-1613442373115-9db6466bdb4c
+headphone05.jpg,Noise Cancelling Headphones,Electronics,https://images.unsplash.com/photo-1518446002770-e85d1e1f59f0
+wallet01.jpg,Leather Wallet,Accessories,https://images.unsplash.com/photo-1523275335684-37898b6baf30
+wallet02.jpg,Card Holder Wallet,Accessories,https://images.unsplash.com/photo-1596743355834-98acc3b16c14
+wallet03.jpg,Slim Wallet,Accessories,https://images.unsplash.com/photo-1581691973549-85b9e8f7110b
+wallet04.jpg,Travel Wallet,Accessories,https://images.unsplash.com/photo-1555529900-bbf3461e147c
+wallet05.jpg,RFID Wallet,Accessories,https://images.unsplash.com/photo-1609521184440-e0c87acecc58

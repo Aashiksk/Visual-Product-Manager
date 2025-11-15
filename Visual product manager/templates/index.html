@@ -1,0 +1,57 @@
+<!-- templates/index.html -->
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Visual Product Matcher</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <header class="header">
+    <h1>Visual Matcher</h1>
+  </header>
+
+  <main class="container">
+    <section class="upload-card">
+      <h2>Upload Image</h2>
+      <div id="drop-area" class="drop-area">
+        <input type="file" id="file-input" accept="image/*" />
+        <p>Drag & drop or choose a file</p>
+      </div>
+
+      <div class="url-input">
+        <input id="image-url" placeholder="Paste image URL (optional)" />
+        <button id="upload-url-btn">Fetch URL</button>
+      </div>
+
+      <div id="preview" class="preview hidden">
+        <h3>Preview</h3>
+        <img id="preview-img" src="" alt="preview" />
+      </div>
+
+      <button id="search-btn" class="primary">Find Similar Products</button>
+      <div id="status" class="status"></div>
+    </section>
+
+    <section class="results-card">
+      <aside class="left-panel">
+        <h3>Filters</h3>
+        <label>Similarity score ≥ <span id="score-label">0</span>%</label>
+        <input type="range" id="similarity-slider" min="0" max="100" value="0" />
+        <label>Category</label>
+        <input type="text" id="category-filter" placeholder="category" />
+        <button id="apply-filter">Apply</button>
+      </aside>
+
+      <section class="right-panel">
+        <div id="loading" class="hidden">Finding similar products…</div>
+        <div id="results-grid" class="grid"></div>
+        <div id="empty" class="hidden">No results found</div>
+      </section>
+    </section>
+  </main>
+
+  <script src="/static/main.js"></script>
+</body>
+</html>
